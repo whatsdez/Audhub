@@ -1,3 +1,4 @@
+print("sucessfully fetched from github")
 _y2zmAQl6jtTEQ2gX, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
